@@ -1,0 +1,11 @@
+{
+  "name": "my-mods",
+  "owner": { "name": "mesutyigit1776" },
+  "plugins": [
+    {
+      "name": "stained-glass-theme",
+      "source": "./stained-glass-theme",
+      "description": "Gothic stained-glass theme for the desktop app. /glass on | calm | off"
+    }
+  ]
+}
